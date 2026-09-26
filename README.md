@@ -1,6 +1,6 @@
 # Hi, I'm Amna Badar
 
-### Computer Science Student | Aspiring Data Analyst
+### Data Analyst | Python Developer 
 
 I'm a Computer Science student building my skills in **Python, Data Analytics, SQL, and AI**.
 
