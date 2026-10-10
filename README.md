@@ -1,41 +1,35 @@
-```html
-<div align="center">
+ <div align="center">
 
-<!-- ANIMATED NIQABI CODING BANNER -->
-<img src="assets/niqabi-coding.gif" width="100%" alt="Niqabi girl coding in a pixel-art room"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Amna%20Badar&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Animated header"/>
 
-<br/>
+<h1>Hey! 👋 Welcome to My GitHub</h1>
 
-<h1>Hey! 👋 I'm Amna Badar</h1>
-
-<h3>Computer Science Student</h3>
-
-<p>
-<strong>Passionate about Data Analytics and Python Development</strong>
-</p>
+<h3>Data Analytics | Python Development | AI</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Python+Developer;Aspiring+Data+Analyst;Exploring+AI+and+Data+Visualization;Learning+by+Building+Projects" alt="Animated typing introduction"/>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/amnabadar">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 <a href="mailto:amnabadar29@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
 </a>
 
 </div>
 
 ---
 
-I enjoy learning through practical projects, exploring datasets, and developing solutions that turn data into meaningful insights.
+## 👩🏻‍💻 About Me
 
-- 📊 Exploring data analysis and visualization
-- 🐍 Building projects with Python
-- 🗄️ Strengthening my SQL skills
-- 🤖 Learning Python for AI
-- 🚀 Improving through hands-on practice
+I'm passionate about **Data Analytics, Python Development, and Artificial Intelligence**. I enjoy learning through practical projects, exploring datasets, and developing solutions that turn data into meaningful insights.
+
+* 📊 Exploring data analysis and visualization
+* 🐍 Building projects with Python
+* 🗄️ Strengthening my SQL skills
+* 🤖 Learning Python for AI
+* 🚀 Improving through hands-on practice
 
 ---
 
@@ -47,11 +41,11 @@ I enjoy learning through practical projects, exploring datasets, and developing 
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 
 </div>
 
@@ -60,12 +54,15 @@ I enjoy learning through practical projects, exploring datasets, and developing 
 ## 🚀 Featured Projects
 
 ### ✅ TaskFlow — Task Management App
+
 A Python and Streamlit application for managing tasks, tracking completion, and visualizing progress.
 
 ### 🎲 Advanced Dice Rolling Game
+
 A Python game featuring multiple rounds, player scores, bonus points, and game statistics.
 
 ### 📊 Data Analytics Projects
+
 Hands-on practice in data cleaning, exploratory data analysis, and visualization using Pandas and NumPy.
 
 ---
@@ -88,10 +85,10 @@ Hands-on practice in data cleaning, exploratory data analysis, and visualization
 
 ## 🌱 Currently Learning
 
-- Data Analytics
-- SQL and database querying
-- Data Visualization
-- Python for AI
+* Data Analytics
+* SQL and database querying
+* Data Visualization
+* Python for AI
 
 ---
 
@@ -99,9 +96,8 @@ Hands-on practice in data cleaning, exploratory data analysis, and visualization
 
 ### ✨ Learn. Build. Analyze. Improve.
 
-<i>Small steps, consistent learning, meaningful progress.</i>
+*Small steps, consistent learning, meaningful progress.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" alt="Decorative footer"/>
 
 </div>
-```
