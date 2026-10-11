@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="assets/niqabi-coding.gif"
+  <img src="assets/niqabi-coding-animation.gif"
        width="100%"
-       alt="Animated niqabi girl coding at night"/>
+       alt="Niqabi girl coding at night"/>
 </div>
 
  <div align="center">
