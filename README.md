@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/niqabi-coding.gif" width="100%" height="260" alt="Animated niqabi girl coding at night"/>
+  <img src="assets/niqabi-coding-animation.gif" width="100%" height="260" alt="Animated niqabi girl coding at night"/>
 </div>
 
 <div align="center">
