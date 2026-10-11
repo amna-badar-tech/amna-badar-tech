@@ -1,13 +1,13 @@
+```html
 <div align="center">
   <img src="assets/niqabi-coding-animation.gif"
-       width="65%"
+       width="100%"
        alt="Niqabi girl coding at night"/>
 </div>
 
+<div align="center">
 
- <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Amna%20Badar&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Animated header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=90&section=header&text=Amna%20Badar&fontSize=28&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55" width="100%" alt="Amna Badar header"/>
 
 <h1>Hey! 👋 Welcome to My GitHub</h1>
 
@@ -32,11 +32,11 @@
 
 I'm passionate about **Data Analytics, Python Development, and Artificial Intelligence**. I enjoy learning through practical projects, exploring datasets, and developing solutions that turn data into meaningful insights.
 
-* 📊 Exploring data analysis and visualization
-* 🐍 Building projects with Python
-* 🗄️ Strengthening my SQL skills
-* 🤖 Learning Python for AI
-* 🚀 Improving through hands-on practice
+- 📊 Exploring data analysis and visualization
+- 🐍 Building projects with Python
+- 🗄️ Strengthening my SQL skills
+- 🤖 Learning Python for AI
+- 🚀 Improving through hands-on practice
 
 ---
 
@@ -92,10 +92,10 @@ Hands-on practice in data cleaning, exploratory data analysis, and visualization
 
 ## 🌱 Currently Learning
 
-* Data Analytics
-* SQL and database querying
-* Data Visualization
-* Python for AI
+- Data Analytics
+- SQL and database querying
+- Data Visualization
+- Python for AI
 
 ---
 
@@ -105,6 +105,7 @@ Hands-on practice in data cleaning, exploratory data analysis, and visualization
 
 *Small steps, consistent learning, meaningful progress.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" alt="Decorative footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=60&section=footer" width="100%" alt="Decorative footer"/>
 
 </div>
+```
