@@ -6,7 +6,7 @@
 </div>
 <div align="center">
 
-<h1>Hey! Welcome👋, I'm Amna Badar</h1>
+<h1>Hey! 👋, I'm Amna Badar</h1>
 
 <h3>Data Analytics | Python Development | AI</h3>
 
