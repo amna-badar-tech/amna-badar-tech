@@ -1,8 +1,9 @@
 <div align="center">
   <img src="assets/niqabi-coding-animation.gif"
-       width="100%"
+       width="65%"
        alt="Niqabi girl coding at night"/>
 </div>
+
 
  <div align="center">
 
