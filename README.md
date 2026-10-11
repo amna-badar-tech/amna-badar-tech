@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="assets/niqabi-coding.gif"
+       width="100%"
+       alt="Animated niqabi girl coding at night"/>
+</div>
+
  <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Amna%20Badar&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Animated header"/>
