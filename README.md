@@ -10,6 +10,8 @@
 
 <h3>Data Analytics | Python Development | AI</h3>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=38BDF8
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Python+Developer;Aspiring+Data+Analyst;Exploring+AI+and+Data+Visualization;Learning+by+Building+Projects" alt="Animated typing introduction"/>
 
 <br/><br/>
