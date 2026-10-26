@@ -70,6 +70,7 @@ Hands-on practice in data cleaning, exploratory data analysis, and visualization
 - SQL and database querying
 - Data Visualization
 - Python for AI
+- Basics of Machine Learning
 
 ---
 
