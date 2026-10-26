@@ -42,7 +42,7 @@ I'm passionate about **Data Analytics, Python Development, and Artificial Intell
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&perline=5" alt="Python, SQL, Git, GitHub and Visual Studio Code"/>
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,mysql,git,github,vscode&perline=5" alt="Python, SQL, Git, GitHub and Visual Studio Code"/>
 
 </div>
 
