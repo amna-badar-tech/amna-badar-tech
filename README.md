@@ -92,8 +92,6 @@ Hands-on practice in data cleaning, exploratory data analysis, and visualization
 
 ### ✨ Learn. Build. Analyze. Improve.
 
-*Small steps, consistent learning, meaningful progress.*
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=80&section=footer" width="100%" alt="Decorative footer"/>
 
 </div>
